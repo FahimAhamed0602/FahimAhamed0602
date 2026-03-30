@@ -19,6 +19,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false&v=6" alt="Fahim's GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&layout=compact&count_private=true&custom_title=Top%20Languages&v=6" alt="Top Languages" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![FahimAhamed0602's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
