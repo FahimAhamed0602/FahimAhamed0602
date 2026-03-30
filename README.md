@@ -14,11 +14,11 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Fahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&custom_title=Fahim%27s%20GitHub%20Stats&v=6" alt="Fahim's GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false" alt="Fahim's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false&v=6" alt="Fahim's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&layout=compact&count_private=true&custom_title=Top%20Languages&v=6" alt="Top Languages" />
 </p>
 
 ---
