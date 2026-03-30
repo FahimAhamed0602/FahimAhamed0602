@@ -53,13 +53,7 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&custom_title=Fahim%27s%20GitHub%20Stats&v=8" alt="Fahim's GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false&v=8" alt="Fahim's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&layout=compact&count_private=true&custom_title=Top%20Languages&v=8" alt="Top Languages" />
-</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
