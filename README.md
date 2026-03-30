@@ -62,11 +62,23 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FahimAhamed0602&icon=0&color=0)](https://visitcount.itsvg.in)
-### 📈 Activity Graph
+# 📈 Detailed Contribution Analysis
+
+### 📅 Activity Timeline (Monthly/Yearly)
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&hide_border=false" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&area=true&hide_border=false&custom_title=Monthly%20Contribution%20Graph" />
   </a>
+</p>
+
+### 🚀 Velocity & Consistency (Daily/All-Time)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&point_color=323330&line=0077B5&hide_border=false" />
 </p>
 
 ---
