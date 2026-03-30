@@ -64,23 +64,29 @@
 [![](https://visitcount.itsvg.in/api?id=FahimAhamed0602&icon=0&color=0)](https://visitcount.itsvg.in)
 # 📈 Detailed Contribution Analysis
 
-### 📅 Activity Timeline (Monthly/Yearly)
-<p align="center">
+# 📊 Detailed GitHub Stats & Activity
+
+### 🚀 Velocity & Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="195" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&layout=compact&langs_count=8" height="195" alt="Top Languages" />
+</div>
+
+<br>
+
+### 🔥 Daily Streak Consistency
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br>
+
+### 📈 Contribution Graph (Yearly Trend)
+<div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&area=true&hide_border=false&custom_title=Monthly%20Contribution%20Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="Activity Graph" />
   </a>
-</p>
-
-### 🚀 Velocity & Consistency (Daily/All-Time)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&point_color=323330&line=0077B5&hide_border=false" />
-</p>
-
+</div>
 ---
 # 📊 GitHub Stats:
 <p align="left">
