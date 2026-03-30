@@ -62,6 +62,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FahimAhamed0602&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&hide_border=false" />
+  </a>
+</p>
+
+---
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&custom_title=Fahim%27s%20GitHub%20Stats&v=8" alt="Fahim's GitHub Stats" />
