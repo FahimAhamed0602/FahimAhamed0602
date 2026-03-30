@@ -52,7 +52,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-# 📊GitHub Stats & Activity:
+# 📊 Activity:
 
 ![](https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false)<br/>
