@@ -10,8 +10,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/fahimahamed2001) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/unknownz007) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-ahamed-romit/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@fahimahamedromit1373) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@FAHIMAHAMED) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@fahimahamedromit1373)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahim.ahamed.romit@g.bracu.ac.bd)
 
 # 💻 Tech Stack:
@@ -65,7 +64,7 @@
 # 📊 Continuous Improvement Dashboard (A Detailed View)
 
 ### 📈 Overall Performance & Contribution Velocity (Macro All-Time View)
-Here is a complete detailed breakdown of my impact. Note that I am tracking private commits and explicitly showing my performance rank, reviews, and discussions tier.
+Here is a complete, detailed breakdown of my impact. Note that I am tracking private commits and explicitly showing my performance rank, reviews, and discussions tier.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide_rank=false" alt="Macro Performance Metrics" />
 </div>
