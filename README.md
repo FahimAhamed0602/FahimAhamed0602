@@ -4,7 +4,7 @@
 🤝 Looking for: UI/UX or Software Dev works.<br>
 🌱 Learning: Prompt engineering & Machine Learning.<br>
 💬 Ask me about: Python, SQA, & Design.<br>
-⚡ Fun fact: Led a team of 100+ and created 200+ designs
+⚡ Fun fact: Led a team of 500+ and created 200+ designs
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/fahimahamed2001) 
