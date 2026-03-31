@@ -51,56 +51,39 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-# 📊 Activity:
-
-![](https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![FahimAhamed0602's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=FahimAhamed0602&icon=0&color=0)](https://visitcount.itsvg.in)
-# 📊 Continuous Improvement Dashboard (A Detailed View)
 
-### 📈 Overall Performance & Contribution Velocity (Macro All-Time View)
-Here is a complete, detailed breakdown of my impact. Note that I am tracking private commits and explicitly showing my performance rank, reviews, and discussions tier.
+# 📊 Continuous Improvement Dashboard
+
+### 📈 Overall Performance & Contribution Velocity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide_rank=false" alt="Macro Performance Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide_rank=false&.svg" alt="Macro Performance Metrics" />
 </div>
 
 <br>
 
 ### 🛠️ Detailed Technology & Language Proficiency
-Since I'm a Polyglot Engineer and UI/UX Designer, this detailed breakdown tracks my usage across my entire stack.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&layout=compact&langs_count=10&hide_border=false" alt="Deep Language Breakdown" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&layout=compact&langs_count=10&hide_border=false&.svg" alt="Deep Language Breakdown" />
 </div>
 
 <br>
 
 ### 🗓️ Daily & Yearly Activity Timeline
-A granular view of my development activity over the last year, highlighting monthly trends.
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&area=true&hide_border=false" width="100%" alt="Detailed Yearly Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=tokyo-night&area=true&hide_border=false&.svg" width="100%" alt="Detailed Yearly Activity Graph" />
   </a>
 </div>
 
 <br>
 
-### 🔥 Development Consistency Streak (Micro Daily View)
+### 🔥 Development Consistency Streak
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false&mode=daily" alt="Micro Daily Consistency Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false&mode=daily&.svg" alt="Micro Daily Consistency Streak" />
 </div>
-# 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&custom_title=Fahim%27s%20GitHub%20Stats&v=8" alt="Fahim's GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimAhamed0602&theme=tokyonight&hide_border=false&v=8" alt="Fahim's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=tokyonight&hide_border=false&layout=compact&count_private=true&custom_title=Top%20Languages&v=8" alt="Top Languages" />
-</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FahimAhamed0602&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=FahimAhamed0602&icon=0&color=0&.svg" alt="Profile Views" />
+</div>
