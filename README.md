@@ -5,11 +5,19 @@
 ### Web Developer • UI/UX Designer • Software Quality Assurance (SQA) • ML Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Apps+%26+UI%2FUX+Design;Creative+Tech+%26+Design+Collaborations;Python+%7C+SQA+%7C+Prompt+Engineering;Led+a+team+of+500%2B+%7C+200%2B+Designs" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Apps+%26+UI%2FUX+Design;Creative+Tech+%26+Design+Collaborations;Python+%7C+SQA+%7C+Prompt+Engineering;Led+a+team+of+500%2B+%7C+200%2B+Designs">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Web+Apps+%26+UI%2FUX+Design;Creative+Tech+%26+Design+Collaborations;Python+%7C+SQA+%7C+Prompt+Engineering;Led+a+team+of+500%2B+%7C+200%2B+Designs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Web+Apps+%26+UI%2FUX+Design;Creative+Tech+%26+Design+Collaborations;Python+%7C+SQA+%7C+Prompt+Engineering;Led+a+team+of+500%2B+%7C+200%2B+Designs" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=58A6FF&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge" alt="Profile views" />
+  </picture>
 </p>
 
 <p>
@@ -85,7 +93,11 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true" alt="Fahim's GitHub Streak" />
+  </picture>
 </p>
 
 ---
@@ -93,5 +105,9 @@
 ## 📈 Activity & Contributions
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=1a1b27&color=7AA2F7&line=7AA2F7&point=35bcbf&area=true&hide_border=true" alt="Fahim's Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true" alt="Fahim's Activity Graph" />
+  </picture>
 </p>
