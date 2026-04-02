@@ -35,7 +35,7 @@
 ## 🚀 Snapshot
 
 > 🎨 **UI/UX & Design**: Created **200+ unique designs** blending aesthetics with user-centric functionality.  
-> 👥 **Leadership**: Led and mentored **300+ members** across global university networks.  
+> 👥 **Leadership**: Led and mentored **500+ members** across global university networks.  
 > 💻 **Product & Tech**: Passionate about Product Management, Software Quality Assurance, and building robust web applications.  
 > 🤖 **ML & Data**: Hands-on with Python-based ML pipelines, data cleaning, cluster analysis, and prompt engineering.  
 > 🌟 **Currently Focused**: Product strategy, Agile delivery, and AI-powered user experiences.  
@@ -168,8 +168,8 @@ Coffee ordering app prototype in **Figma** with optimized user flows and consist
 
 **Director – Information & Technology**  
 *BRAC University Entrepreneurship Development Forum (BUEDF)* (2021–2024)  
-- Organized 3 IT skill workshops for 100+ members.  
-- Managed university IT infrastructure and official Facebook groups.  
+- Organised 3 IT skill workshops for 100+ members.  
+- Managed the Club's IT infrastructure and official Facebook groups.  
 - Led a core team of 100 members.
 
 ---
