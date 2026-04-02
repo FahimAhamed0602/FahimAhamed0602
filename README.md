@@ -96,11 +96,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true" alt="Fahim's GitHub Streak" />
+    <img loading="lazy" src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true" alt="Fahim's GitHub Streak" />
   </picture>
 </p>
 
-------
+---
 
 ## 📈 Activity & Contributions
 
@@ -108,6 +108,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&area=true&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true" alt="Fahim's Activity Graph" />
+    <img loading="lazy" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true" alt="Fahim's Activity Graph" />
   </picture>
 </p>
