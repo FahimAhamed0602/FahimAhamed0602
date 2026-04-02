@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Fahim Ahamed Romit
 
-### Product Management  • Tech Lead & Designer • Web Developer • UI/UX Designer • SQA Engineer • ML Enthusiast
+### Product Management Candidate • Tech Lead & Designer • Web Developer • UI/UX Designer • SQA Engineer • ML Enthusiast
 
 <p>
   <picture>
@@ -139,8 +139,17 @@ Coffee ordering app prototype in **Figma** with optimized user flows and consist
 - **HackerRank**: 5★ Python, 1★ Problem Solving & SQL
 - **LeetCode**: 30+ problems solved (Python)
 
-**Certifications**  
-Google Project Management • Google Digital Marketing & E-commerce • Cleaning Data in Python • Cluster Analysis in Python • Data Visualization in Tableau • Design System in Figma (Grameenphone) • ChatGPT Prompt Engineering for Developers
+**Certifications** 🎓  
+- Google Project Management (Coursera, Sep. 2023)  
+- Google Digital Marketing and E-commerce (Coursera, Sep. 2023)  
+- Problem Solving (Intermediate), HackerRank (Sep. 2023)  
+- Cleaning Data in Python – DataCamp  
+- Cluster Analysis in Python – DataCamp  
+- Data Visualization in Tableau  
+- Java (Basic) Certificate – HackerRank  
+- Canva Achievement Certificate (200 Unique Designs)  
+- Certificate of Excellence: Design System in Figma – Grameenphone Academy (Oct. 2025)  
+- ChatGPT Prompt Engineering for Developers – DeepLearning.AI (May 2024)
 
 ---
 
