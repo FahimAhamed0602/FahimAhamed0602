@@ -94,9 +94,14 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Fahim's GitHub Stats" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true">
-    <img loading="lazy" src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true" alt="Fahim's GitHub Streak" />
+    <img loading="lazy" width="48%" src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true" alt="Fahim's GitHub Streak" />
   </picture>
 </p>
 
