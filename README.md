@@ -100,7 +100,7 @@
   </picture>
 </p>
 
----
+------
 
 ## 📈 Activity & Contributions
 
