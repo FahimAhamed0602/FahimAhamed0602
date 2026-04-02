@@ -101,7 +101,20 @@
 </p>
 
 ---
+## 📈 Contribution Activity
 
+<div align="center" width="90%">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=tokyonight" alt="Profile Details" />
+
+
+
+
+  <br/><br/>
+
+ 
+
+</div>
 ## 📈 Activity & Contributions
 
 <p align="center">
@@ -111,3 +124,4 @@
     <img loading="lazy" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true" alt="Fahim's Activity Graph" />
   </picture>
 </p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Keep%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Keep Coding Wave" />
