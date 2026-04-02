@@ -115,7 +115,7 @@
  
 
 </div>
-## 📈 Activity & Contributions
+
 
 <p align="center">
   <picture>
