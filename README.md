@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Fahim Ahamed Romit
 
-### Product Management Candidate • Tech Lead & Designer • Web Developer • UI/UX Designer • SQA Engineer • ML Enthusiast
+**Product Management Candidate • Tech Lead & Designer • SQA Engineer • ML Enthusiast**
 
 <p>
   <picture>
@@ -13,11 +13,7 @@
 </p>
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=58A6FF&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge" alt="Profile views" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p>
@@ -32,57 +28,80 @@
 
 ---
 
-## 🚀 Snapshot
+## 🚀 About Me
 
-> 🎨 **UI/UX & Design**: Created **200+ unique designs** blending aesthetics with user-centric functionality.  
-> 👥 **Leadership**: Led and mentored **500+ members** across global university networks.  
-> 💻 **Product & Tech**: Passionate about Product Management, Software Quality Assurance, and building robust web applications.  
-> 🤖 **ML & Data**: Hands-on with Python-based ML pipelines, data cleaning, cluster analysis, and prompt engineering.  
-> 🌟 **Currently Focused**: Product strategy, Agile delivery, and AI-powered user experiences.  
-> 🤝 **Open To**: Product Management roles, Tech Lead / Designer positions, and creative tech collaborations.
+I am a multifaceted tech professional passionate about bridging the gap between user-centric design and robust software engineering. With a strong foundation in **Product Management, Software Quality Assurance, and Machine Learning**, I specialize in building digital solutions that are both functional and visually compelling. 
+
+Whether I'm designing intuitive UIs (with over 200 unique designs under my belt), leading a team of 300+ cross-functional members, or building automated Python pipelines, my focus is always on driving product strategy and agile delivery forward.
+
+*Currently open to **Product Management roles, Tech Lead positions, and creative tech collaborations.***
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Toolkit
 
-**Languages**  
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+**Core Languages** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> 
 
-**Frameworks & Libraries**  
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> 
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> 
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+**Libraries & Frameworks** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
 
-**Databases & Tools**  
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-**Product & Data**  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> 
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+**Data, Design & DevOps** <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📌 Featured Projects
+
+> 🌐 **Coaching Management System** | `Laravel` `MySQL`  
+> End-to-end web platform streamlining educational workflows. Managed everything from database schema design to crafting the modern UI.
+
+> 🤖 **Credit Card Fraud Detection** | `Python` `PyCaret` `ML`  
+> Automated machine learning pipelines improving transaction classification accuracy through data-driven modeling.
+
+> 🔍 **Lost & Found System** | `Django` `Python`  
+> Dynamic web app designed for the efficient reporting, tracking, and retrieval of lost items.
+
+> 🎮 **3D Game Development (Bullet Frenzy & Cube Commando)** | `Python` `PyOpenGL`  
+> Developed immersive 3D shooter games featuring dynamic cameras, interactive UI elements, and engaging enemy AI.
+
+> 📱 **High-Fidelity Mobile App Mockups** | `Figma` `UI/UX`  
+> Designed a complete coffee ordering app prototype with optimized user flows and a highly cohesive design system.
+
+---
+
+## 💼 Experience & Leadership
+
+* **Mentor, Graphics Design Dept.** @ *Youth School for Social Entrepreneurs (YSSE)*
+  * Directed and mentored **300+ individuals** across Bangladesh and international university networks.
+  * Led design teams for 10+ events with strict quality control, spearheading wireframing and social media assets to boost engagement.
+* **Software Quality Assurance Intern** @ *Goinnovior Ltd.*
+  * Conducted rigorous usability and compatibility testing for seamless user experiences.
+  * Collaborated directly with developers to document, track, and resolve system bugs.
+* **Director, Information & Technology** @ *BRAC University Entrepreneurship Dev. Forum*
+  * Organized 3 high-impact IT skill workshops for over 100 participants.
+  * Managed the club's IT infrastructure and official digital footprint while leading a core team of 100 members.
+
+---
+
+## 🎖️ Achievements & Certifications
+
+**🏆 Coding Profiles & Honors**
+- **Finalist:** CS Spectrum Code Crash (IEEE Computer Society, BRAC University)
+- **2nd Runner-Up:** Intra Business Competition (BUEDF)
+- **HackerRank:** 5★ Python | 1★ Problem Solving & SQL
+- **beecrowd & LeetCode:** 105+ combined problems solved (Python)
+
+**🎓 Top Certifications**
+- **Google:** Project Management | Digital Marketing and E-commerce
+- **DeepLearning.AI:** ChatGPT Prompt Engineering for Developers
+- **DataCamp:** Cleaning Data in Python | Cluster Analysis in Python
+- **Grameenphone Academy:** Certificate of Excellence - Design System in Figma
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <picture>
@@ -103,87 +122,6 @@
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true" alt="Activity Graph" />
   </picture>
 </p>
-
----
-
-## 📌 Featured Projects
-
-**Coaching Management System**  
-Web platform built with **Laravel + MySQL**. End-to-end development: database schema → modern UI. Streamlines educational workflows.
-
-**Credit Card Fraud Detection**  
-ML project using **PyCaret** automated pipelines. Improved transaction classification accuracy through data-driven modeling.
-
-**Lost & Found System**  
-**Django** web app for efficient reporting and retrieval of lost items.
-
-**Bullet Frenzy**  
-3D shooter game developed with **Python + PyOpenGL**. Dynamic camera, enemy AI, and engaging gameplay.
-
-**Cube Commando: Alone Warrior**  
-3D OpenGL game featuring animated enemies and interactive UI elements.
-
-**Village Scenario Visualisation**  
-Educational OpenGL simulation for immersive content delivery.
-
-**High-Fidelity Mobile App Mockups**  
-Coffee ordering app prototype in **Figma** with optimized user flows and consistent design system.
-
----
-
-## 🎖️ Achievements & Coding Profiles
-
-- **Finalist**, CS Spectrum Code Crash – IEEE Computer Society, BRAC University (2023)
-- **2nd Runner-Up**, Intra Business Competition – BUEDF (2021)
-- **beecrowd**: 75+ problems solved (Python)
-- **HackerRank**: 5★ Python, 1★ Problem Solving & SQL
-- **LeetCode**: 30+ problems solved (Python)
-
-**Certifications** 🎓  
-- Google Project Management (Coursera, Sep. 2023)  
-- Google Digital Marketing and E-commerce (Coursera, Sep. 2023)  
-- Problem Solving (Intermediate), HackerRank (Sep. 2023)  
-- Cleaning Data in Python – DataCamp  
-- Cluster Analysis in Python – DataCamp  
-- Data Visualization in Tableau  
-- Java (Basic) Certificate – HackerRank  
-- Canva Achievement Certificate (200 Unique Designs)  
-- Certificate of Excellence: Design System in Figma – Grameenphone Academy (Oct. 2025)  
-- ChatGPT Prompt Engineering for Developers – DeepLearning.AI (May 2024)
-
----
-
-## 👥 Experience & Leadership
-
-**Mentor – Graphics Design Department**  
-*Youth School for Social Entrepreneurs (YSSE)*  
-- Led design teams for 10+ events with strict quality control and deadlines.  
-- Directed and mentored **300+** individuals across Bangladesh and international university networks.  
-- Spearheaded wireframing and social media assets to boost engagement.
-
-**Software Quality Assurance Intern**  
-*Goinnovior Ltd. (2024)*  
-- Conducted usability & compatibility testing for seamless UX.  
-- Collaborated with developers to document and resolve bugs.
-
-**Director – Information & Technology**  
-*BRAC University Entrepreneurship Development Forum (BUEDF)* (2021–2024)  
-- Organised 3 IT skill workshops for 100+ members.  
-- Managed the Club's IT infrastructure and official Facebook groups.  
-- Led a core team of 100 members.
-
----
-
-<div align="center">
-
-## 📬 Let's Connect & Collaborate!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-ahamed-romit/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://fahimahamedromit-portfolio.lovable.app/)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/fahimahamed2001)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahimahamedromit@gmail.com)
-
-</div>
 
 ---
 
