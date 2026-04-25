@@ -35,19 +35,23 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ---
 
-<div align="center">
-
 ## 🛠️ My Tech Toolkit
 
-**Languages**  
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**Languages** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
-**Frameworks & Libraries**  
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
+**Frameworks & Libraries** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
@@ -56,8 +60,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 
-**Databases • Design • DevOps • Analytics**  
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+**Databases • Design • DevOps • Analytics** <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
@@ -94,14 +97,11 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 💼 Experience & Leadership
 
-- **Mentor, Graphics Design Department** @ *Youth School for Social Entrepreneurs (YSSE)*  
-  Led and mentored **300+ students** across Bangladesh and international universities. Directed design teams for 10+ major events, delivering high-quality wireframes, social media assets, and branding that boosted engagement by 4×.
+- **Mentor, Graphics Design Department** @ *Youth School for Social Entrepreneurs (YSSE)* Led and mentored **300+ students** across Bangladesh and international universities. Directed design teams for 10+ major events, delivering high-quality wireframes, social media assets, and branding that boosted engagement by 4×.
 
-- **Software Quality Assurance Intern** @ *Goinnovior Ltd.*  
-  Performed end-to-end usability, compatibility, and regression testing. Collaborated closely with developers to identify, document, and resolve critical bugs — ensuring pixel-perfect and stable releases.
+- **Software Quality Assurance Intern** @ *Goinnovior Ltd.* Performed end-to-end usability, compatibility, and regression testing. Collaborated closely with developers to identify, document, and resolve critical bugs — ensuring pixel-perfect and stable releases.
 
-- **Director, Information & Technology** @ *BRAC University Entrepreneurship Development Forum*  
-  Organized 3 high-impact IT skill development workshops for 100+ participants. Managed the club’s entire digital infrastructure, website, and social presence while leading a core team of 100 members.
+- **Director, Information & Technology** @ *BRAC University Entrepreneurship Development Forum* Organized 3 high-impact IT skill development workshops for 100+ participants. Managed the club’s entire digital infrastructure, website, and social presence while leading a core team of 100 members.
 
 ---
 
@@ -122,19 +122,16 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Stats 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&border_radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&border_radius=12">
-    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&border_radius=12" alt="GitHub Streak" />
-  </picture>
-</p>
+### 🔥 Stats & Streaks
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true" style="float: left; margin-right: 10px;" width="48%" alt="Fahim's GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=radical" style="float: left; margin-left: 10px;" width="48%" alt="GitHub Streak" />
 </div>
+<br clear="both"/>
 
 <p align="center">
   <picture>
