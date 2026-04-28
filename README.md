@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me.
 
 I’m a **Product Management candidate** and multidisciplinary tech leader who turns complex problems into intuitive, high-impact digital products. With deep expertise in **UI/UX design (200+ unique designs)**, **Software Quality Assurance**, **Machine Learning**, and **agile product strategy**, I bridge the gap between user needs, business goals, and technical excellence.
 
