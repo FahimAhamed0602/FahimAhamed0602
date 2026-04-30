@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 # 👋 Hi, I'm Fahim Ahamed Romit
 **Product Management Candidate • Tech Lead • UI/UX Designer • SQA Engineer • ML Enthusiast**
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 About Me.
+## 🚀 About Me
 
 I’m a **Product Management candidate** and multidisciplinary tech leader who turns complex problems into intuitive, high-impact digital products. With deep expertise in **UI/UX design (200+ unique designs)**, **Software Quality Assurance**, **Machine Learning**, and **agile product strategy**, I bridge the gap between user needs, business goals, and technical excellence.
 
@@ -98,9 +98,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 💼 Experience & Leadership
 
 - **Mentor, Graphics Design Department** @ *Youth School for Social Entrepreneurs (YSSE)* Led and mentored **300+ students** across Bangladesh and international universities. Directed design teams for 10+ major events, delivering high-quality wireframes, social media assets, and branding that boosted engagement by 4×.
-
 - **Software Quality Assurance Intern** @ *Goinnovior Ltd.* Performed end-to-end usability, compatibility, and regression testing. Collaborated closely with developers to identify, document, and resolve critical bugs — ensuring pixel-perfect and stable releases.
-
 - **Director, Information & Technology** @ *BRAC University Entrepreneurship Development Forum* Organized 3 high-impact IT skill development workshops for 100+ participants. Managed the club’s entire digital infrastructure, website, and social presence while leading a core team of 100 members.
 
 ---
@@ -122,9 +120,13 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ---
 
-## 🔥 GitHub Stats 
+## 📈 GitHub Activity
 
-### 🔥 Stats & Streaks
+![GitHub Contribution Graph](https://ghchart.rshah.org/FahimAhamed0602)
+
+---
+
+## 🔥 Stats & Streaks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true" style="float: left; margin-right: 10px;" width="48%" alt="Fahim's GitHub Stats" />
