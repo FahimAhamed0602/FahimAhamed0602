@@ -135,12 +135,10 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🔥 Stats & Streaks
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true" style="float: left; margin-right: 10px;" width="48%" alt="Fahim's GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=radical" style="float: left; margin-left: 10px;" width="48%" alt="GitHub Streak" />
-</div>
-<br clear="both"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true" height="195" alt="Fahim's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=radical" height="195" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <picture>
