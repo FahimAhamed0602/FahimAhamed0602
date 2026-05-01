@@ -38,7 +38,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </div>
 
 <br/>
@@ -127,26 +127,35 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ---
 
-## 📈 GitHub Activity
+## 🔥 Overall GitHub Stats
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/FahimAhamed0602)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true&cache_seconds=86400" alt="Fahim's GitHub Stats" />
+</div>
 
 ---
 
-## 🔥 Stats & Streaks
+## ⚡ Current Commits & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true" height="195" alt="Fahim's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=radical" height="195" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=radical&v=1" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Activity & Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&v=1">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&v=1" alt="Activity Graph" />
   </picture>
 </p>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/FahimAhamed0602" alt="GitHub Contribution Graph" />
+</div>
 
 ---
 
