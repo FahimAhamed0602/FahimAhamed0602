@@ -43,9 +43,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=github_dark&layout=compact&v=999">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=default&layout=compact&v=999">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&theme=default&layout=compact&v=999" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github" alt="Top Languages" />
   </picture>
 </div>
 
@@ -139,9 +139,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=github_dark&show_icons=true&v=999">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=default&show_icons=true&v=999">
-    <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=default&show_icons=true&v=999" alt="Fahim's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github" alt="Fahim's GitHub Stats" />
   </picture>
 </div>
 
@@ -163,9 +163,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true" alt="Activity Graph" />
   </picture>
 </p>
 
