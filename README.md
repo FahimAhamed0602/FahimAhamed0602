@@ -33,7 +33,9 @@
 
 ## 🚀 About Me
 
-I’m a **Product Management candidate** and multidisciplinary tech leader who turns complex problems into intuitive, high-impact digital products. With deep expertise in **UI/UX design**, **Software Quality Assurance**, and **Machine Learning**, I bridge the gap between user needs and technical excellence.
+I’m a **Product Management candidate** and multidisciplinary tech leader who turns complex problems into intuitive, high-impact digital products. With deep expertise in **UI/UX design (200+ unique designs)**, **Software Quality Assurance**, **Machine Learning**, and **agile product strategy**, I bridge the gap between user needs, business goals, and technical excellence.
+
+I’ve led cross-functional teams of **300+ members**, delivered production-grade systems, and built everything from 3D games to automated ML pipelines. Currently **open to Product Management, Tech Lead, and Product Designer roles** — let’s build something exceptional together.
 
 ---
 
@@ -41,9 +43,9 @@ I’m a **Product Management candidate** and multidisciplinary tech leader who t
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github_dark/1-repos-per-language.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github/1-repos-per-language.svg?v=2">
-    <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github/1-repos-per-language.svg?v=2" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github" alt="Top Languages" />
   </picture>
 </div>
 
@@ -61,15 +63,75 @@ I’m a **Product Management candidate** and multidisciplinary tech leader who t
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> 
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> 
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 
 **Databases & DevOps** <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+
+**Design Tools** <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> 
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/> 
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+
+**Analytics & Office** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> 
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
 
 </div>
+
+---
+
+## 📌 Featured Projects
+
+> **🌐 Coaching Management System** — `Laravel • MySQL • Live Deployment`  
+> Built a complete end-to-end platform that automates student enrollment, class scheduling, payment tracking, and instructor dashboards. Designed modern responsive UI and robust backend architecture used by multiple coaching centers.
+
+> **🤖 Credit Card Fraud Detection** — `Python • PyCaret • Scikit-learn`  
+> Developed an automated ML pipeline that significantly improved fraud detection accuracy using advanced classification models, feature engineering, and real-time prediction capabilities.
+
+> **🔍 Lost & Found System** — `Django • Python • PostgreSQL`  
+> Full-stack web application for seamless reporting, tracking, and retrieval of lost items with real-time notifications and admin analytics dashboard.
+
+> **🎮 3D Game Development (Bullet Frenzy & Cube Commando)** — `Python • PyOpenGL`  
+> Created two immersive 3D first-person shooters featuring dynamic camera systems, AI-driven enemies, interactive UI, and physics-based gameplay.
+
+> **📱 High-Fidelity Mobile App Mockups** — `Figma • UI/UX Design System`  
+> Designed a complete coffee-ordering mobile app with 50+ screens, micro-interactions, design tokens, and user-flow optimization — ready for development handoff.
+
+**All projects available on [GitHub](https://github.com/FahimAhamed0602) & [Portfolio](https://fahimahamedromit-portfolio.lovable.app/)**
+
+---
+
+## 💼 Experience & Leadership
+
+- **Mentor, Graphics Design Department** @ *Youth School for Social Entrepreneurs (YSSE)* Led and mentored **300+ students** across Bangladesh and international universities. Directed design teams for 10+ major events, delivering high-quality wireframes, social media assets, and branding that boosted engagement by 4×.
+- **Software Quality Assurance Intern** @ *Goinnovior Ltd.* Performed end-to-end usability, compatibility, and regression testing. Collaborated closely with developers to identify, document, and resolve critical bugs — ensuring pixel-perfect and stable releases.
+- **Director, Information & Technology** @ *BRAC University Entrepreneurship Development Forum* Organized 3 high-impact IT skill development workshops for 100+ participants. Managed the club’s entire digital infrastructure, website, and social presence while leading a core team of 100 members.
+
+---
+
+## 🎖️ Achievements & Certifications
+
+**🏆 Highlights**
+- **Finalist** — CS Spectrum Code Crash (IEEE Computer Society, BRAC University)
+- **2nd Runner-Up** — Intra Business Competition (BUEDF)
+- **HackerRank** — 5★ Python | 1★ Problem Solving & SQL
+- **beecrowd & LeetCode** — 105+ problems solved (Python)
+
+**📜 Top Certifications**
+- Google — Project Management Professional Certificate
+- Google — Digital Marketing & E-commerce
+- DeepLearning.AI — ChatGPT Prompt Engineering for Developers
+- DataCamp — Cleaning Data in Python + Cluster Analysis in Python
+- Grameenphone Academy — Certificate of Excellence in Design Systems (Figma)
 
 ---
 
@@ -77,9 +139,9 @@ I’m a **Product Management candidate** and multidisciplinary tech leader who t
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github_dark/0-profile-details.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github/0-profile-details.svg?v=2">
-    <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github/0-profile-details.svg?v=2" alt="Fahim's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github" alt="Fahim's GitHub Stats" />
   </picture>
 </div>
 
@@ -89,9 +151,9 @@ I’m a **Product Management candidate** and multidisciplinary tech leader who t
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&v=2">
-    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&v=2" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default">
+    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -99,24 +161,28 @@ I’m a **Product Management candidate** and multidisciplinary tech leader who t
 
 ## 📈 Activity & Contribution Graph
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github_dark/3-stats.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github/3-stats.svg?v=2">
-    <img width="100%" src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-cards-output/github/3-stats.svg?v=2" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true" alt="Activity Graph" />
   </picture>
-</div>
+</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/FahimAhamed0602?v=2" />
-    <img src="https://ghchart.rshah.org/0969DA/FahimAhamed0602?v=2" alt="GitHub Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/FahimAhamed0602" />
+    <img src="https://ghchart.rshah.org/0969DA/FahimAhamed0602" alt="GitHub Contribution Graph" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Let's+build+the+future+together!+🚀" alt="Footer Typing" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72" alt="Keep Building Wave" />
+  </picture>
 </div>
