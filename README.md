@@ -12,7 +12,11 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=58A6FF&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge" alt="Profile views" />
+  </picture>
   <a href="https://fahimahamedromit-portfolio.lovable.app/"><img src="https://img.shields.io/badge/📌-View%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -38,7 +42,11 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=tokyonight" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
@@ -130,7 +138,11 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🔥 Overall GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=tokyonight" alt="Fahim's GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github" alt="Fahim's GitHub Stats" />
+  </picture>
 </div>
 
 ---
@@ -138,7 +150,11 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=tokyonight" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default">
+    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -154,11 +170,19 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FahimAhamed0602" alt="GitHub Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/FahimAhamed0602" />
+    <img src="https://ghchart.rshah.org/0969DA/FahimAhamed0602" alt="GitHub Contribution Graph" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Keep Building Wave" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72" alt="Keep Building Wave" />
+  </picture>
 </div>
