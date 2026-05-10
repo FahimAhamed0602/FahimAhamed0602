@@ -43,9 +43,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-cards-output/github-dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-cards-output/github/1-repos-per-language.svg">
+    <img src="./profile-summary-cards-output/github/1-repos-per-language.svg" alt="Top Languages" />
   </picture>
 </div>
 
@@ -139,9 +139,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github" alt="Fahim's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-cards-output/github-dark/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-cards-output/github/0-profile-details.svg">
+    <img src="./profile-summary-cards-output/github/0-profile-details.svg" alt="Fahim's GitHub Stats" />
   </picture>
 </div>
 
@@ -163,9 +163,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
   </picture>
 </p>
 
@@ -181,8 +181,8 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72" alt="Keep Building Wave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s+Build+the+Future+Together+%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s+Build+the+Future+Together+%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=150,200,255&height=180&section=footer&text=Let%E2%80%99s+Build+the+Future+Together+%F0%9F%9A%80&fontSize=42&fontColor=000&animation=twinkling&fontAlignY=72" alt="Keep Building Wave" />
   </picture>
 </div>
