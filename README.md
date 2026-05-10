@@ -5,14 +5,14 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations&v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations&v=1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations&v=1" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations" alt="Typing SVG" />
   </picture>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge&v=1" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FahimAhamed0602&label=Profile%20views&color=0969DA&style=for-the-badge" alt="Profile views" />
   <a href="https://fahimahamedromit-portfolio.lovable.app/"><img src="https://img.shields.io/badge/📌-View%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -38,7 +38,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimAhamed0602&layout=compact&theme=radical&v=1" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=radical" alt="Top Languages" />
 </div>
 
 <br/>
@@ -130,7 +130,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🔥 Overall GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&theme=radical&show_icons=true&v=1" alt="Fahim's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=radical" alt="Fahim's GitHub Stats" />
 </div>
 
 ---
@@ -138,7 +138,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=radical&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -147,18 +147,18 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&v=1">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&v=1" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
   </picture>
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FahimAhamed0602?v=1" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/FahimAhamed0602" alt="GitHub Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72&v=1" alt="Keep Building Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let%E2%80%99s%20Build%20the%20Future%20Together%20%F0%9F%9A%80&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Keep Building Wave" />
 </div>
