@@ -151,9 +151,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default">
-    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="./streak-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./streak-light.svg">
+    <img src="./streak-light.svg" alt="GitHub Streak" />
   </picture>
 </div>
 
