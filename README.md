@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Fahim Ahamed Romit 
+# 👋 Hi, I'm Fahim Ahamed Romit
 **Product Management Candidate • Tech Lead • UI/UX Designer • SQA Engineer • ML Enthusiast**
 
 <p>
