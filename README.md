@@ -42,11 +42,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github" alt="Top Languages" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark" alt="Top Languages" />
 </div>
 
 <br/>
@@ -81,9 +77,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 
 **Analytics & Office** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> 
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> 
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
 
 </div>
 
@@ -146,7 +142,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&v=update1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -154,11 +150,11 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 📈 Activity & Contribution Graph
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&v=update1" alt="Activity Graph" />
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=update1" alt="GitHub Contribution Graph" />
 </div>
 
 ---
