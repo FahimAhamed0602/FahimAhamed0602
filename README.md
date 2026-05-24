@@ -81,9 +81,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 
 **Analytics & Office** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> 
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> 
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
 
 </div>
 
@@ -138,11 +138,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🔥 Overall GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github" alt="Fahim's GitHub Stats" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark" alt="Fahim's GitHub Stats" />
 </div>
 
 ---
@@ -150,11 +146,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&v=20260524">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&v=20260524">
-    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&v=20260524" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -162,19 +154,11 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 📈 Activity & Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&v=20260524">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true&v=20260524">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true&v=20260524" alt="Activity Graph" />
-  </picture>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=20260524" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/FahimAhamed0602?v=20260524" />
-    <img src="https://ghchart.rshah.org/0969DA/FahimAhamed0602?v=20260524" alt="GitHub Contribution Graph" />
-  </picture>
+  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" alt="GitHub Contribution Graph" />
 </div>
 
 ---
