@@ -151,9 +151,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&date=today">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&date=today">
-    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&date=today" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&v=20260524">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&v=20260524">
+    <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=default&hide_border=true&v=20260524" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -163,17 +163,17 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&date=today">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true&date=today">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true&date=today" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&v=20260524">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true&v=20260524">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github&hide_border=true&area=true&v=20260524" alt="Activity Graph" />
   </picture>
 </p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/FahimAhamed0602" />
-    <img src="https://ghchart.rshah.org/0969DA/FahimAhamed0602" alt="GitHub Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=20260524" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/FahimAhamed0602?v=20260524" />
+    <img src="https://ghchart.rshah.org/0969DA/FahimAhamed0602?v=20260524" alt="GitHub Contribution Graph" />
   </picture>
 </div>
 
