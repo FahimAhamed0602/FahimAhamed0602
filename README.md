@@ -142,21 +142,19 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&v=29" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/index.php?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&v=final_fix" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 📈 Activity & Contribution Graph
 
-
-
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&line=58A6FF&point=58A6FF&v=29" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&line=58A6FF&point=58A6FF&v=final_fix" alt="Activity Graph" />
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=29" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=final_fix" alt="GitHub Contribution Graph" />
 </div>
 
 ---
