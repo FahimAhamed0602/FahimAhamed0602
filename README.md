@@ -1,6 +1,6 @@
 <div align="center">
   
-#  👋  Hi, I'm Fahim Ahamed Romit
+# 👋 Hi, I'm Fahim Ahamed Romit 
 **Product Management Candidate • Tech Lead • UI/UX Designer • SQA Engineer • ML Enthusiast**
 
 <p>
@@ -142,7 +142,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&v=api_synced" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -154,7 +154,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?force_new=1" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" alt="GitHub Contribution Graph" />
 </div>
 
 ---
