@@ -142,7 +142,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/index.php?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&v=final_fix" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&add_current_streak=true&v=refresh_now" alt="GitHub Streak" />
 </div>
 
 ---
