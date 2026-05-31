@@ -6,8 +6,7 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&width=940&lines=Product+Management+%7C+Tech+Leadership;Crafting+User-Centric+Digital+Experiences;UI%2FUX+%7C+SQA+%7C+ML+%7C+Prompt+Engineering;Led+300%2B+Members+%7C+200%2B+Designs+%F0%9F%93%8A;Open+to+Product+Roles+%26+Tech+Collaborations" alt="Typing SVG" />
   </picture>
 </p>
 
@@ -138,6 +137,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 </div>
 
 ---
+
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
@@ -149,11 +149,23 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 📈 Activity & Contribution Graph
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&line=58A6FF&point=58A6FF&v=final_fix" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimAhamed0602&theme=github-dark&hide_border=true&area=true&line=58A6FF&point=58A6FF" alt="Activity Graph" />
 </p>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602?v=final_fix" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
+## 🐍 My GitHub Contributions as Snake Game!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  </picture>
 </div>
 
 ---
