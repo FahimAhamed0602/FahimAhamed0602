@@ -41,7 +41,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimAhamed0602&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
@@ -108,7 +108,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 💼 Experience & Leadership
 
 - **Mentor, Graphics Design Department** @ *Youth School for Social Entrepreneurs (YSSE)* Led and mentored **300+ students** across Bangladesh and international universities. Directed design teams for 10+ major events, delivering high-quality wireframes, social media assets, and branding that boosted engagement by 4×.
-- **Software Quality Assurance Intern** @ *Goinnovior Ltd.* Performed end-to-end usability, compatibility, and regression testing. Collaborated closely with developers to identify, document, and resolve critical bugs — ensuring pixel-perfect and stable releases.
+- **Software Quality Assurance Intern** @ *Goinnovior Ltd.* Performed end-to-end usability, compatibility, and regression testing. Collaborated closesly with developers to identify, document, and resolve critical bugs — ensuring pixel-perfect and stable releases.
 - **Director, Information & Technology** @ *BRAC University Entrepreneurship Development Forum* Organized 3 high-impact IT skill development workshops for 100+ participants. Managed the club’s entire digital infrastructure, website, and social presence while leading a core team of 100 members.
 
 ---
@@ -161,11 +161,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🐍 My GitHub Contributions as Snake Game!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake-dark.svg?v=force_refresh" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
