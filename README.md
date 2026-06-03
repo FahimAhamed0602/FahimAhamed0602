@@ -40,7 +40,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🛠️ My Tech Toolkit
 
-<div align="center"><img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-card-output/github_dark/repos-per-language.svg" alt="Top Languages" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimAhamed0602&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
+</div>
 
 <br/>
 
@@ -130,13 +132,17 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🔥 Overall GitHub Stats
 
-<div align="center"><img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/main/profile-summary-card-output/github_dark/profile-details.svg" alt="Fahim's GitHub Stats" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Fahim's GitHub Stats" />
+</div>
 
 ---
 
 ## ⚡ Current Commits & Streaks
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&mode=all" alt="GitHub Streak" /></div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&mode=all" alt="GitHub Streak" />
+</div>
 
 ---
 
