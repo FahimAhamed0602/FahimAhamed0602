@@ -41,7 +41,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahimAhamed0602&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/repos-per-language.svg?v=refresh_toolkit" alt="Top Languages" />
 </div>
 
 <br/>
@@ -132,9 +132,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🔥 Overall GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=force_live_stats" alt="Fahim's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/profile-details.svg?v=refresh_stats" alt="Fahim's GitHub Stats" />
+</div>
 
 ---
 
