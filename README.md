@@ -40,16 +40,14 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🛠️ My Tech Toolkit
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahimAhamed0602&theme=github_dark" alt="Top Languages" />
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/repos-per-language.svg" alt="Top Languages" /></div>
 
 <br/>
 
 <div align="center">
 
 **Languages** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&angle=0&logoColor=%23F7DF1E" alt="JavaScript"/> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -132,17 +130,13 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🔥 Overall GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark" alt="Fahim's GitHub Stats" />
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/profile-details.svg" alt="Fahim's GitHub Stats" /></div>
 
 ---
 
 ## ⚡ Current Commits & Streaks
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&mode=all" alt="GitHub Streak" />
-</div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&mode=all" alt="GitHub Streak" /></div>
 
 ---
 
