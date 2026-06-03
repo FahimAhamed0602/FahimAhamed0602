@@ -133,7 +133,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🔥 Overall GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Fahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=stats_refresh" alt="Fahim's GitHub Stats" />
 </div>
 
 ---
