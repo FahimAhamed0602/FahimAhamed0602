@@ -41,7 +41,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/repos-per-language.svg?v=refresh_toolkit" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/repos-per-language.svg" alt="Top Languages" />
 </div>
 
 <br/>
@@ -133,7 +133,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🔥 Overall GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/profile-details.svg?v=refresh_stats" alt="Fahim's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/profile-summary-card-output/github_dark/profile-details.svg" alt="Fahim's GitHub Stats" />
 </div>
 
 ---
