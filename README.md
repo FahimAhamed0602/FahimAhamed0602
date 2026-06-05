@@ -158,15 +158,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ---
 
-## 🐍 My GitHub Contributions as Snake Game!
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/FahimAhamed0602/FahimAhamed0602/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-  </picture>
-</div>
 
 ---
 
