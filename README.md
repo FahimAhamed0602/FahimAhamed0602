@@ -40,9 +40,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🛠️ My Tech Toolkit
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=FahimAhamed0602&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&v=88" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FahimAhamed0602&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=99)
 
 <br/>
 
@@ -132,9 +130,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🔥 Overall GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=88" alt="Fahim's GitHub Stats" />
-</div>
+![Fahim's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=99)
 
 ---
 
