@@ -40,7 +40,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🛠️ My Tech Toolkit
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=FahimAhamed0602&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=99)
+<div align="center">
+  <img src="https://quickchart.io/chart?w=500&h=250&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27JavaScript%27%2C%27Java%27%2C%27PHP%27%2C%27C%2B%2B%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%233670A0%27%2C%27%23F7DF1E%27%2C%27%23ED8B00%27%2C%27%23777BB4%27%2C%27%2300599C%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27system-ui%27%7D%2Cpadding%3A15%7D%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27%23fff%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%2CtextStrokeColor%3A%27%23000%27%2CtextStrokeWidth%3A2%2Cformatter%3A%28val%29%3D%3Eval%2B%27%25%27%7D%7D%2Ccutout%3A%2760%25%27%2Clayout%3A%7Bpadding%3A10%7D%7D%7D" alt="Languages Circle Diagram" />
+</div>
 
 <br/>
 
@@ -130,7 +132,9 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## 🔥 Overall GitHub Stats
 
-![Fahim's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=99)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=101" alt="Fahim's GitHub Stats" />
+</div>
 
 ---
 
