@@ -41,18 +41,18 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://quickchart.io/chart?w=500&h=250&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27JavaScript%27%2C%27Java%27%2C%27PHP%27%2C%27C%2B%2B%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%233670A0%27%2C%27%23F7DF1E%27%2C%27%23ED8B00%27%2C%27%23777BB4%27%2C%27%2300599C%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27system-ui%27%7D%2Cpadding%3A15%7D%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27%23fff%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%2CtextStrokeColor%3A%27%23000%27%2CtextStrokeWidth%3A2%2Cformatter%3A%28val%29%3D%3Eval%2B%27%25%27%7D%7D%2Ccutout%3A%2760%25%27%2Clayout%3A%7Bpadding%3A10%7D%7D%7D" alt="Languages Circle Diagram" />
+  <img src="https://quickchart.io/chart?w=600&h=280&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27JavaScript%27%2C%27Java%27%2C%27PHP%27%2C%27C%2B%2B%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2300B4D8%27%2C%27%23FDE047%27%2C%27%23F97316%27%2C%27%23A855F7%27%2C%27%2322C55E%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27system-ui%27%7D%2Cpadding%3A15%7D%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27%23fff%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%2CtextStrokeColor%3A%27%23000%27%2CtextStrokeWidth%3A2%2Cformatter%3A%28val%29%3D%3Eval%2B%27%25%27%7D%7D%2Ccutout%3A%2760%25%27%2Clayout%3A%7Bpadding%3A10%7D%7D%7D" alt="Languages Circle Diagram" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**Languages** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+**Languages** <img src="https://img.shields.io/badge/python-%2300B4D8.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+<img src="https://img.shields.io/badge/javascript-%23FDE047.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
+<img src="https://img.shields.io/badge/java-%23F97316.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
+<img src="https://img.shields.io/badge/php-%23A855F7.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
+<img src="https://img.shields.io/badge/c++-%2322C55E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
 **Frameworks & Libraries** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
