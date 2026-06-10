@@ -41,44 +41,22 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## 🛠️ My Tech Toolkit
 
 <div align="center">
-  <img src="https://quickchart.io/chart?w=600&h=280&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27JavaScript%27%2C%27Java%27%2C%27PHP%27%2C%27C%2B%2B%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2300B4D8%27%2C%27%23FDE047%27%2C%27%23F97316%27%2C%27%23A855F7%27%2C%27%2322C55E%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27system-ui%27%7D%2Cpadding%3A15%7D%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27%23fff%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%2CtextStrokeColor%3A%27%23000%27%2CtextStrokeWidth%3A2%2Cformatter%3A%28val%29%3D%3Eval%2B%27%25%27%7D%7D%2Ccutout%3A%2760%25%27%2Clayout%3A%7Bpadding%3A10%7D%7D%7D" alt="Languages Circle Diagram" />
+  <img src="https://quickchart.io/chart?w=600&h=280&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%20%2835%25%29%27%2C%27JavaScript%20%2825%25%29%27%2C%27Java%20%2820%25%29%27%2C%27PHP%20%2810%25%29%27%2C%27C%252B%252B%20%2810%25%29%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2300B4D8%27%2C%27%23FDE047%27%2C%27%23F97316%27%2C%27%23A855F7%27%2C%27%2322C55E%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27system-ui%27%7D%2Cpadding%3A15%7D%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27%23fff%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%2CtextStrokeColor%3A%27%23000%27%2CtextStrokeWidth%3A2%2Cformatter%3A%28val%29%3D%3Eval%2B%27%25%27%7D%7D%2Ccutout%3A%2760%25%27%2Clayout%3A%7Bpadding%3A10%7D%7D%7D" alt="Languages Circle Diagram" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**Languages** <img src="https://img.shields.io/badge/python-%2300B4D8.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-<img src="https://img.shields.io/badge/javascript-%23FDE047.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-<img src="https://img.shields.io/badge/java-%23F97316.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/php-%23A855F7.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
-<img src="https://img.shields.io/badge/c++-%2322C55E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+**Languages** <img src="https://img.shields.io/badge/Python-%2300B4D8.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-%23FDE047.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-%23F97316.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/PHP-%23A855F7.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/C%2b%2b-%2322C55E.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
-**Frameworks & Libraries** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> 
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> 
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+**Frameworks & Libraries** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 
-**Databases & DevOps** <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+**Databases & DevOps** <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 
-**Design Tools** <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> 
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/> 
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+**Design Tools** <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 
-**Analytics & Office** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> 
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
+**Analytics & Office** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
 
 </div>
 
@@ -141,7 +119,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 ## ⚡ Current Commits & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&mode=all" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia/Dhaka&mode=all&v=109" alt="GitHub Streak" />
 </div>
 
 ---
