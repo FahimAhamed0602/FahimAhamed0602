@@ -38,11 +38,21 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ---
 
-## 🛠️ My Tech Toolkit
+## 📊 Performance Dashboard
 
-<div align="center">
-  <img src="https://quickchart.io/chart?w=600&h=280&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%20%2835%25%29%27%2C%27JavaScript%20%2825%25%29%27%2C%27Java%20%2820%25%29%27%2C%27PHP%20%2810%25%29%27%2C%27C%252B%252B%20%2810%25%29%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2300B4D8%27%2C%27%23FDE047%27%2C%27%23F97316%27%2C%27%23A855F7%27%2C%27%2322C55E%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2Cfont%3A%7Bsize%3A14%2Cfamily%3A%27system-ui%27%7D%2Cpadding%3A15%7D%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Ccolor%3A%27%23fff%27%2Cfont%3A%7Bweight%3A%27bold%27%2Csize%3A14%7D%2CtextStrokeColor%3A%27%23000%27%2CtextStrokeWidth%3A2%2Cformatter%3A%28val%29%3D%3Eval%2B%27%25%27%7D%7D%2Ccutout%3A%2760%25%27%2Clayout%3A%7Bpadding%3A10%7D%7D%7D" alt="Languages Circle Diagram" />
-</div>
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🛠️ Most Used Languages</h3>
+      <br/>
+      <img src="https://quickchart.io/chart?w=450&h=280&bkg=0d1117&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Python%20%2835%25%29%27%2C%27JavaScript%20%2825%25%29%27%2C%27Java%20%2820%25%29%27%2C%27PHP%20%2810%25%29%27%2C%27C%2B%2B%20%2810%25%29%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C25%2C20%2C10%2C10%5D%2CbackgroundColor%3A%5B%27%2300B4D8%27%2C%27%23FDE047%27%2C%27%23F97316%27%2C%27%23A855F7%27%2C%27%2322C55E%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7BboxWidth%3A12%2CfontColor%3A%27%23c9d1d9%27%2CusePointStyle%3Atrue%2CfontSize%3A12%7D%7D%2CcutoutPercentage%3A65%7D%7D" alt="Languages Circle Diagram" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🔥 Overall GitHub Stats</h3>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=110" alt="Fahim's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -105,14 +115,6 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 - DeepLearning.AI — ChatGPT Prompt Engineering for Developers
 - DataCamp — Cleaning Data in Python + Cluster Analysis in Python
 - Grameenphone Academy — Certificate of Excellence in Design Systems (Figma)
-
----
-
-## 🔥 Overall GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=101" alt="Fahim's GitHub Stats" />
-</div>
 
 ---
 
