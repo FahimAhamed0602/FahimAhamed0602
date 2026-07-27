@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Fahim Ahamed Romit 
+# 👋 Hi, I'm Fahim Ahamed Romit
 **Product Management Candidate • Tech Lead • UI/UX Designer • SQA Engineer • ML Enthusiast**
 
 <p>
@@ -49,7 +49,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🔥 Overall GitHub Stats</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=103" alt="Fahim's GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=400" alt="Fahim's GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -120,19 +120,13 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
 
 ## ⚡ Current Commits & Streaks
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&timezone=Asia%2FDhaka&mode=all" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FahimAhamed0602&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📈 Activity & Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimAhamed0602&theme=github_dark" alt="Activity Graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/58A6FF/FahimAhamed0602" alt="GitHub Contribution Graph" />
