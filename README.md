@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Fahim Ahamed Romit
 **Product Management Candidate • Tech Lead • UI/UX Designer • SQA Engineer • ML Enthusiast**
 
@@ -49,7 +49,7 @@ I’ve led cross-functional teams of **300+ members**, delivered production-grad
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🔥 Overall GitHub Stats</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=400" alt="Fahim's GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FahimAhamed0602&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=600" alt="Fahim's GitHub Stats" />
     </td>
   </tr>
 </table>
